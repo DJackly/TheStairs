@@ -1,0 +1,4 @@
+repository "Upstairs@tj_djackly@cloud.cn"
+  path "/"
+    smartbranch "/main/英文版本n"  
+     
